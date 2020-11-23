@@ -30,4 +30,4 @@
 #### <code> E-mail: masedos@gmail.com </code> 
 #### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo Ribeiro </a> </code>
 #### <code> GitHub: <a href="https://github.com/masedos"> github.com/masedos </a> </code>
-#### <code> Portfolio: <a href="masedos.github.io"> masedos.github.io </a> </code>
+#### <code> Portfolio: <a href="https://masedos.github.io"> masedos.github.io </a> </code>
