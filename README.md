@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there! I'm Fernandes Macedo Ribeiro
 
-<!--
-**masedos/masedos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/masedos/)](https://www.linkedin.com/in/masedos/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/masedos)](https://twitter.com/masedos)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:masedos@gmail.com)](mailto:masedos@gmail.com)
+[![Portifolio Badge](https://img.shields.io/badge/-Portifolio-blue?style=for-the-badge&logo=Portifolio&logoColor=white&link=https:https://masedos.github.io/)](https://masedos.github.io/)
 
-Here are some ideas to get you started:
+## I am Data Scientist | Machine Learning Engineer | Apache Spark | BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Fernandes github stats](https://github-readme-stats.vercel.app/api?username=masedos)
+
+<br>
+<br>
+
+<a href="https://www.youracclaim.com/users/fernandes-macedo-ribeiro/badges"> <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png"> <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png"> </a>
+
+<br>
+
+## MBA e Certificações:
+
+#### <code>IBM Data Science Professional Certificate  </code>
+#### <code>MBA Governança nas Tecnologias da Informação</code>
+
+
+<br>
+
+## Contatos: 
+
+#### <code> E-mail: masedos@gmail.com </code> 
+#### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo Ribeiro </a> </code>
+#### <code> GitHub: <a href="https://github.com/masedos"> github.com/masedos </a> </code>
+#### <code> Portfolio: <a href="masedos.github.io"> masedos.github.io </a> </code>
