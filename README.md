@@ -17,7 +17,7 @@
 
 <br>
 
-## MBA e Certificações:
+## MBA and Certificate:
 
 #### <code>IBM Data Science Professional Certificate  </code>
 #### <code>MBA Governança nas Tecnologias da Informação</code>
@@ -25,7 +25,7 @@
 
 <br>
 
-## Contatos: 
+## Contacts: 
 
 #### <code> E-mail: masedos@gmail.com </code> 
 #### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo Ribeiro </a> </code>
