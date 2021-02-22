@@ -30,6 +30,6 @@ Student who seek position in Data Science and Machine Learning Solution, creatin
 ## Contacts: 
 
 #### <code> E-mail: masedos@gmail.com </code> 
-#### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo Ribeiro </a> </code>
+#### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo</a> </code>
 #### <code> GitHub: <a href="https://github.com/masedos"> github.com/masedos </a> </code>
 #### <code> Portfolio: <a href="https://masedos.github.io"> masedos.github.io </a> </code>
