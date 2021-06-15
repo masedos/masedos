@@ -15,7 +15,7 @@ Student who seek position in Data Science and Machine Learning Solution, creatin
 <br>
 <br>
 
-<a href="https://www.youracclaim.com/users/fernandes-macedo-ribeiro/badges"> &nbsp; <img width = "180px" src = "https://images.credly.com/size/340x340/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png"> &nbsp; &nbsp; &nbsp; <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png"> &ensp; &ensp;<img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png"> 
+<a href="https://www.youracclaim.com/users/fernandes-macedo-ribeiro/badges"> &ensp; <img width = "180px" src = "https://images.credly.com/size/340x340/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png"> &ensp; &ensp; &ensp; <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png"> &ensp; &ensp;<img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png"> 
 </a>
 
 <br>
