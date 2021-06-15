@@ -23,6 +23,7 @@ Student who seek position in Data Science and Machine Learning Solution, creatin
 ## MBA and Certificate:
 
 #### <code>IBM Data Science Professional Certificate  </code>
+#### <code>IBM Machine Learning Professional Certificate </code>
 #### <code>MBA Governança nas Tecnologias da Informação</code>
 
 
