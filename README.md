@@ -26,7 +26,7 @@ Student who seek position in Data Science, Machine Learning Solution, creating i
 #### <code>IBM Machine Learning Professional Certificate </code>
 #### <code>IBM Data Science Professional Certificate  </code>
 #### <code>IBM Data Analyst Professional Certificate </code>
-#### <code>Google Data Analytics Certificate  </code>
+#### <code>Google Data Analytics Professional Certificate  </code>
 
 
 #### <code>MBA Governança nas Tecnologias da Informação</code>
