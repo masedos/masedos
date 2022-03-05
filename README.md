@@ -1,13 +1,13 @@
 ### Hi there! I'm Fernandes Macedo
 
-Student who seek position in Data Science and Machine Learning Solution, creating insights through data science for your business. Currently learning data, machine learning algorithms, statistics, cloud and random stuff.
+Student who seek position in Data Science, Machine Learning Solution, creating insights through data science for your business. Currently learning data, machine learning algorithms, statistics, cloud and random stuff.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/masedos/)](https://www.linkedin.com/in/masedos/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/masedos)](https://twitter.com/masedos)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:masedos@gmail.com)](mailto:masedos@gmail.com)
 [![Portifolio Badge](https://img.shields.io/badge/-Portifolio-blue?style=for-the-badge&logo=Portifolio&logoColor=white&link=https:https://masedos.github.io/)](https://masedos.github.io/)
 
-## I am Data Scientist | Machine Learning Engineer | Apache Spark | BI
+## I am Data Scientist | Data Analist | Apache Spark | BI
 
 
 ![Fernandes github stats](https://github-readme-stats.vercel.app/api?username=masedos)
