@@ -16,16 +16,19 @@ Student who seek position in Data Science, Machine Learning Solution, creating i
 <br>
 
 <a href="https://www.youracclaim.com/users/fernandes-macedo-ribeiro/badges"> &ensp; <img width = "180px" src = "https://images.credly.com/size/340x340/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png"> &ensp; &ensp; &ensp; <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png"> &ensp; &ensp;<img width = "180px" src = "https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"> 
+  &ensp; &ensp;<img width = "180px" src = "https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"> 
 </a>
 
 <br>
 
 ## MBA and Certificate:
 
-#### <code>IBM Data Science Professional Certificate  </code>
-#### <code>Google Data Analytics Certificate  </code>
-#### <code>Data Analyst Professional Certificate </code>
 #### <code>IBM Machine Learning Professional Certificate </code>
+#### <code>IBM Data Science Professional Certificate  </code>
+#### <code>IBM Data Analyst Professional Certificate </code>
+#### <code>Google Data Analytics Certificate  </code>
+
+
 #### <code>MBA Governança nas Tecnologias da Informação</code>
 
 
