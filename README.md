@@ -1,42 +1,86 @@
-### Hi there! I'm Fernandes Macedo
+# 👋 Hi, I'm Fernandes Macedo
 
-Student who seek position in Data Science, Machine Learning Solution, creating insights through data science for your business. Currently learning data, machine learning algorithms, statistics, cloud and random stuff.
+🎯 Data Scientist | Data Analyst | Machine Learning | Apache Spark | BI  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/masedos/)](https://www.linkedin.com/in/masedos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/masedos)](https://twitter.com/masedos)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:masedos@gmail.com)](mailto:masedos@gmail.com)
-[![Portifolio Badge](https://img.shields.io/badge/-Portifolio-blue?style=for-the-badge&logo=Portifolio&logoColor=white&link=https:https://masedos.github.io/)](https://masedos.github.io/)
+I am passionate about transforming data into strategic insights and building data-driven solutions.  
+Currently focused on **Data Science, Machine Learning, Statistics, and Cloud Computing**.
 
-## I am Data Scientist | Data Analist | Apache Spark | BI
+---
 
+## 🚀 About Me
 
-![Fernandes github stats](https://github-readme-stats.vercel.app/api?username=masedos)
+- 📊 Data Science & Analytics enthusiast  
+- 🤖 Machine Learning practitioner  
+- ☁️ Learning Cloud & Big Data tools  
+- 📈 Focused on generating business insights through data  
 
-<br>
-<br>
+---
 
-<a href="https://www.credly.com/users/fernandes-macedo-ribeiro/badges"> &ensp; <img width = "180px" src = "https://images.credly.com/size/340x340/images/f02ef07e-9cc2-4bc4-a316-ccfaedde8559/Professional_Certificate_-_IBM_Machine_Language.png"> &ensp; &ensp; &ensp; <img width = "180px" src = "https://images.youracclaim.com/size/340x340/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png"> &ensp; &ensp;<img width = "180px" src = "https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"> 
-  &ensp; &ensp;<img width = "180px" src = "https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"> 
-</a>
+## 🌐 Connect with Me
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masedos/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masedos)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masedos@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://masedos.github.io/)
 
-## MBA and Certificate:
+---
 
-#### <code>IBM Machine Learning Professional Certificate </code>
-#### <code>IBM Data Science Professional Certificate  </code>
-#### <code>IBM Data Analyst Professional Certificate </code>
-#### <code>Google Data Analytics Professional Certificate  </code>
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masedos&show_icons=true&theme=default)
 
-#### <code>MBA Governança nas Tecnologias da Informação</code>
+---
 
+## 🏆 Certifications
 
-<br>
+<p align="center">
 
-## Contacts: 
+  <img width="130px" src="https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"/>
 
-#### <code> E-mail: masedos@gmail.com </code> 
-#### <code> Linkedin: <a href="https://www.linkedin.com/in/masedos/"> Fernandes Macedo</a> </code>
-#### <code> GitHub: <a href="https://github.com/masedos"> github.com/masedos </a> </code>
-#### <code> Portfolio: <a href="https://masedos.github.io"> masedos.github.io </a> </code>
+  <img width="130px" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"/>
+
+  <img width="130px" src="https://images.credly.com/size/340x340/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png"/>
+
+  <img width="130px" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png"/>
+
+  <img width="130px" src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png"/>
+
+  <img width="130px" src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png"/>
+
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 MBA in IT Governance  
+- 📜 IBM Machine Learning Professional Certificate  
+- 📜 IBM Data Science Professional Certificate  
+- 📜 IBM Data Analyst Professional Certificate  
+- 📜 Google Data Analytics Professional Certificate
+- 📜 Google IT Automation with Python Professional Certificate
+- 📜 Google Advanced Data Analytics Certificate
+
+---
+
+## 🧠 Skills
+
+- **Languages:** Python, SQL  
+- **Data:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- **Big Data:** Apache Spark  
+- **BI Tools:** Power BI, Excel  
+- **Cloud:** AWS / GCP (learning)  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **masedos@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/masedos/  
+- 💻 GitHub: https://github.com/masedos  
+- 🌎 Portfolio: https://masedos.github.io  
+
+---
+
+⭐ *Always learning, building, and creating value through data.*
