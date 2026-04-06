@@ -35,19 +35,41 @@ Currently focused on **Data Science, Machine Learning, Statistics, and Cloud Com
 
 <p align="center">
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"/>
+  <!-- 🥇 Destaque -->
+  <a href="https://www.credly.com/badges/63d2ab80-e0c9-496f-b51c-516d242ba001" target="_blank" title="Google Advanced Data Analytics Certificate">
+    <img width="140px" src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png"/>
+  </a>
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"/>
+  <!-- Google -->
+  <a href="https://www.credly.com/badges/2776b572-aadb-4fae-bedd-f7d85817570e" target="_blank" title="Google IT Automation with Python Professional Certificate">
+    <img width="130px" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png"/>
+  </a>
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png"/>
+  <a href="https://www.credly.com/badges/2ca81bae-8131-4627-ad7d-40bccd7bf8b3" target="_blank" title="Google Data Analytics Professional Certificate">
+    <img width="130px" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"/>
+  </a>
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png"/>
+  <!-- IBM -->
+  <a href="https://www.credly.com/badges/0ff3cf5a-e115-4381-9d23-b0fe75c77d29" target="_blank" title="IBM Data Science Professional Certificate">
+    <img width="130px" src="https://images.credly.com/size/340x340/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png"/>
+  </a>
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png"/>
+  <a href="https://www.credly.com/badges/e332748d-604c-4c8b-89d4-0e54be8d4b65" target="_blank" title="IBM Machine Learning Professional Certificate">
+    <img width="130px" src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png"/>
+  </a>
 
-  <img width="130px" src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png"/>
+  <a href="https://www.credly.com/badges/1f825325-14e9-424b-9dbb-b01df025c1ec" target="_blank" title="IBM Data Analyst Professional Certificate">
+    <img width="130px" src="https://images.credly.com/size/340x340/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png"/>
+  </a>
 
 </p>
+
+---
+
+## 🥇 Featured Certification
+
+- **Google Advanced Data Analytics Professional Certificate**  
+  https://www.credly.com/badges/63d2ab80-e0c9-496f-b51c-516d242ba001
 
 ---
 
@@ -57,9 +79,9 @@ Currently focused on **Data Science, Machine Learning, Statistics, and Cloud Com
 - 📜 IBM Machine Learning Professional Certificate  
 - 📜 IBM Data Science Professional Certificate  
 - 📜 IBM Data Analyst Professional Certificate  
-- 📜 Google Data Analytics Professional Certificate
-- 📜 Google IT Automation with Python Professional Certificate
-- 📜 Google Advanced Data Analytics Certificate
+- 📜 Google Data Analytics Professional Certificate  
+- 📜 Google IT Automation with Python Professional Certificate  
+- 📜 Google Advanced Data Analytics Certificate  
 
 ---
 
